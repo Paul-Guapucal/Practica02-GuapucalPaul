@@ -52,27 +52,27 @@ Una agenda telefónica en la que se implementan métodos genéricos, además de 
 
 *2.1.3 Clase del paquete vista*
 
-[Ventana Gestion Telefono](https://github.com/juancvxpro/Pr-ctica-de-laboratorio-08-Agenda-Telef-nica-con-MVC-y-DAO-con-Archivos-Binarios-2.-Desarrollar-un/blob/master/src/ec/edu/ups/vista/GestionTelefono.java)
+[Ventana Gestion Telefono](https://github.com/Paul-Guapucal/Practica02-GuapucalPaul/blob/main/src/main/java/ec/edu/ups/vista/GestionTelefono.java)
 
 ![Interfaz Gestion Telefono](https://github.com/Paul-Guapucal/Screens-Practica08/blob/master/VentanaGestionTelefonos.jpg)
 
-[Ventana Listar telefono del usuario](https://github.com/juancvxpro/Pr-ctica-de-laboratorio-08-Agenda-Telef-nica-con-MVC-y-DAO-con-Archivos-Binarios-2.-Desarrollar-un/blob/master/src/ec/edu/ups/vista/ListarTelefonosUsuarios.java)
+[Ventana Listar telefono del usuario](https://github.com/Paul-Guapucal/Practica02-GuapucalPaul/blob/main/src/main/java/ec/edu/ups/vista/ListarTelefonosUsuarios.java)
 
 ![Interfaz Listar telefono del usuario](https://github.com/Paul-Guapucal/Screens-Practica08/blob/master/VentanaListarTelefonosUsuario.jpg)
 
-[Ventana Listar telefonos](https://github.com/juancvxpro/Pr-ctica-de-laboratorio-08-Agenda-Telef-nica-con-MVC-y-DAO-con-Archivos-Binarios-2.-Desarrollar-un/blob/master/src/ec/edu/ups/vista/Listartelefonos.java)
+[Ventana Listar telefonos](https://github.com/Paul-Guapucal/Practica02-GuapucalPaul/blob/main/src/main/java/ec/edu/ups/vista/Listartelefonos.java)
 
 ![Interfaz Listar telefonos](https://github.com/Paul-Guapucal/Screens-Practica08/blob/master/VentanaListarTelefonos.jpg)
 
-[Ventana Registrar Usuario](https://github.com/juancvxpro/Pr-ctica-de-laboratorio-08-Agenda-Telef-nica-con-MVC-y-DAO-con-Archivos-Binarios-2.-Desarrollar-un/blob/master/src/ec/edu/ups/vista/RegistrarUsuario.java)
+[Ventana Registrar Usuario](https://github.com/Paul-Guapucal/Practica02-GuapucalPaul/blob/main/src/main/java/ec/edu/ups/vista/RegistrarUsuario.java)
 
 ![Interfaz Registrar Usuario](https://github.com/Paul-Guapucal/Screens-Practica08/blob/master/VentanaRegistrarUsuario.jpg)
 
-[Ventana Iniciar Sesion](https://github.com/juancvxpro/Pr-ctica-de-laboratorio-08-Agenda-Telef-nica-con-MVC-y-DAO-con-Archivos-Binarios-2.-Desarrollar-un/blob/master/src/ec/edu/ups/vista/VentanaIniciarSesion.java)
+[Ventana Iniciar Sesion](https://github.com/Paul-Guapucal/Practica02-GuapucalPaul/blob/main/src/main/java/ec/edu/ups/vista/VentanaIniciarSesion.java)
 
 ![Interfaz Iniciar Sesion](https://github.com/Paul-Guapucal/Screens-Practica08/blob/master/VentanaIniciarSesion.jpg)
 
-[Ventana Principal](https://github.com/juancvxpro/Pr-ctica-de-laboratorio-08-Agenda-Telef-nica-con-MVC-y-DAO-con-Archivos-Binarios-2.-Desarrollar-un/blob/master/src/ec/edu/ups/vista/VentanaPrincipal.java)
+[Ventana Principal](https://github.com/Paul-Guapucal/Practica02-GuapucalPaul/blob/main/src/main/java/ec/edu/ups/vista/VentanaPrincipal.java)
 
 ![Interfaz Ventana Principal](https://github.com/Paul-Guapucal/Screens-Practica08/blob/master/VentanaPrincipal.jpg)
 
